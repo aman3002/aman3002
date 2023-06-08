@@ -28,11 +28,11 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aman3002)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman3002)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman3002&show_icons=true)
+![Amangarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman3002&show_icons=true)
 
 
 
