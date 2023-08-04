@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amangarg3002@gmail.com**
 
-- 📄 RESUME :-  [https://drive.google.com/file/d/1rR2EWVPz7IaKSEOa1O5LSd6gLMBzIs8S/view?usp=share_link](https://docs.google.com/document/d/1Y3hDzio-5d3nQAUbyd1lf3OM-CgFFJpe/edit?usp=sharing&ouid=117907683209550802536&rtpof=true&sd=true)
+- 📄 RESUME :- https://drive.google.com/file/d/1Ad1JfWgk_8DgQqnG38AODv7dclkeeTSc/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman garg" height="30" width="40" /></a>
